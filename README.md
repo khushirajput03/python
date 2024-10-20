@@ -1,3 +1,3 @@
 # python
-This is my firsr resopitary
+This is my first resopitary
 Author - Khushi
